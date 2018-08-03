@@ -106,7 +106,7 @@ void flip() {
     lora_phy.compute_rx_win_params(8, 6, 10, &rx_window2_config);
 */
 
-    sprintf(tx_buffer, "ola mundo ------ --- %d", count++);
+    sprintf(tx_buffer, "Hello world ------ --- %d", count++);
 
 
     tx_config.channel = 8;
