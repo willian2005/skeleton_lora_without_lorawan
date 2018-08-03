@@ -1,0 +1,19 @@
+mbed-os/rtos/*
+mbed-os/features/cellular/*
+mbed-os/features/FEATURE_CLIENT/*
+mbed-os/features/FEATURE_COMMON_PAL/*
+mbed-os/features/FEATURE_UVISOR/*
+mbed-os/features/net/*
+mbed-os/features/netsocket/*
+mbed-os/features/nvstore/*
+mbed-os/features/storage/*
+
+//My modifications
+mbed-os/features/frameworks/greentea-client/*
+mbed-os/features/frameworks/unity/*
+mbed-os/features/frameworks/utest/*
+
+mbed-os/features/nanostack/mbed-mesh-api/*
+mbed-os/features/nanostack/nanostack-hal-mbed-cmsis-rtos/*
+mbed-os/features/nanostack/nanostack-interface/*
+mbed-os/features/device_key/source/DeviceKey.cpp
